@@ -48,7 +48,7 @@ Copyright © 2015 Stanislaw Kowalczyk, BSD-3 Clause License.
 
 This project makes use of dependencies, which are licensed individually as follows below:
 
-This project makes use of EMGU under its open source license: GPL-v3 which can be found here: http://www.gnu.org/licenses/gpl-3.0.txt (sourced from http://www.emgu.com/wiki/index.php/Licensing:#Open_Source_License on 2015-11-23).
+This project makes use of EMGU under its open source license: GPL-v3 which can be found here: http://www.gnu.org/licenses/gpl-3.0.txt
 
 This project makes use of Open CV which is under the BSD License which can be found here: http://opencv.org/license.html
 
@@ -63,3 +63,65 @@ This project was developed using Microsoft's Visual Studio. When opened in Visua
 An EMGU distribution is provided in the EMGU folder (as well as a distribution of OpenCV, Tesseract OCR, and ZedGraph). Upon hitting run in Visual Studio the dependencies are copied over to the bin directory as part of a post-build script.
 
 If you wish to run the false positive tests, feel free to run the 'CompositionTest' project. The test data used for false positive testing can be found in the bin directory of the 'CompositionTest' project.
+
+## Long Story
+
+### Why improve Android development?
+
+Smartphone application development is like a production line, both are lengthy processes, have multiple steps, and is repetitive.
+
+![Old production line of Bell aircraft](https://raw.githubusercontent.com/stankowalczyk/composition/master/ReadmeResources/prod-line.jpg "Old production line of Bell aircraft")
+
+However production lines have embraced industrial automation, enabling efficiency improvements. Software engineering, specifically the area of user interface (UI) development has yet to embrace automation.
+
+![Modern production line for BMW](https://raw.githubusercontent.com/stankowalczyk/composition/master/ReadmeResources/modern-prod-line.jpg "Modern production line for BMW")
+
+Automation can help save time and effort, and can allow developers to work on more important areas of smartphone development, areas which are complex and presently cannot be automated.
+
+### Why are we trying to improve Android development?
+
+Well the smartphone app industry is anticipated to earn $77 billion in revenue in the year 2017 alone. The amount of apps available to consumers is around the 3.1 million mark (from both the iOS and Android application marketplaces combined).
+
+Each and every one of those apps give users the ability to comment and rate each app, giving a heads up to the next user whether they should try or avoid an app. An app which is rated poorly often is unable to increase its user base, leading to increased pressures on developers to build high quality apps.
+
+If developers had access to an automation tool for even a part of the app development process, they could release an app quicker or spend more time working on other areas of the app, potentially leading to better quality apps, or even decrease app development costs.
+
+### So, what are you trying to improve?
+
+Well in many cases when an app is being developed, there is a team consisting of designers, developers and a few other staff members.
+
+Designers are tasked with the challenge of envisioning and creating the UI of the app, its looks and user experience (UX). Developers on the other hand have task of transferring these UI designs into code.
+
+Normally what happens is a designer creates sketches and prototypes of potential designs. Once one is selected, it is implemented in digital graphics software such as Illustrator or Photoshop. From here the designer normally saves the design as a JPEG or PNG and distributes it to the development team.
+
+![Productivity tool process](https://raw.githubusercontent.com/stankowalczyk/composition/master/ReadmeResources/process.png "Productivity tool process")
+
+The development team then re-creates these designs in the form of code. The developers look at each design, decide which UI elements are best suited to carry out the task, including which of the many layout elements would be most appropriate. Then they write the required XML code (in the case of Android development).
+
+This duplication of effort, where a developer re-creates an image design made by a designer is the process we are trying to improve. With the help of some automation, we will try to reduce the amount of time and effort required by a developer to turn that image design, into code.
+
+### How are you going to achieve that?
+
+Through a heuristic UI element classification algorithm, along with a productivity tool that enables developers to interact with the algorithm in a graphical and friendly way.
+
+The algorithm looks tries to extract features from a segment of the image design, compares those features to a set of characteristics which define what an element is, and based on if it meets the characteristics or not we can classify what type of element it is.
+
+### Awesome! Can we see what it achieves?
+
+Here is a screenshot of a screen from the Chromecast app on the left, and the output of the algorithm and productivity tool on the right.
+
+![Result of productivity tool](https://raw.githubusercontent.com/stankowalczyk/composition/master/ReadmeResources/result.png "Result of productivity tool")
+
+We can see that there are quite a lot of similarities. This tool is still a work in progress, and there is still a need for a developer to do to polish it off.
+
+### Where can I read more about this?
+
+You can read more about the algorithm, productivity tool, and concept in Stanislaw Kowalczyk's Honours Thesis!
+
+If it is published electronically, upon completion of its review, I will post a link here.
+
+### Image Sources
+
+Old black and white photograph of a production line creating Bell aircraft, located in the 'Why improve Android development?' section, sourced from https://en.wikipedia.org/wiki/Mass\_production
+
+Modern production line from BMW, located in the 'Why improve Android development?' section, sourced from https://en.wikipedia.org/wiki/Spot\_welding
