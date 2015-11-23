@@ -1,0 +1,826 @@
+[
+  {
+    "FilePath": "testimages\\0.jpg",
+    "WidgetAreaList": [],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\112.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 19,
+        "Y1": 300,
+        "X2": 413,
+        "Y2": 364,
+        "BackgroundColourRed": 234,
+        "BackgroundColourGreen": 234,
+        "BackgroundColourBlue": 234
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\1260.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 273,
+        "Y1": 230,
+        "X2": 740,
+        "Y2": 275,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\1537.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 69,
+        "Y1": 106,
+        "X2": 458,
+        "Y2": 155,
+        "BackgroundColourRed": 210,
+        "BackgroundColourGreen": 212,
+        "BackgroundColourBlue": 212
+      },
+      {
+        "X1": 68,
+        "Y1": 162,
+        "X2": 456,
+        "Y2": 211,
+        "BackgroundColourRed": 210,
+        "BackgroundColourGreen": 212,
+        "BackgroundColourBlue": 212
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\1545.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 14,
+        "Y1": 113,
+        "X2": 486,
+        "Y2": 174,
+        "BackgroundColourRed": 245,
+        "BackgroundColourGreen": 245,
+        "BackgroundColourBlue": 245
+      },
+      {
+        "X1": 9,
+        "Y1": 182,
+        "X2": 347,
+        "Y2": 239,
+        "BackgroundColourRed": 245,
+        "BackgroundColourGreen": 245,
+        "BackgroundColourBlue": 245
+      },
+      {
+        "X1": 12,
+        "Y1": 259,
+        "X2": 493,
+        "Y2": 313,
+        "BackgroundColourRed": 245,
+        "BackgroundColourGreen": 245,
+        "BackgroundColourBlue": 245
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\1601.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 26,
+        "Y1": 185,
+        "X2": 383,
+        "Y2": 232,
+        "BackgroundColourRed": 238,
+        "BackgroundColourGreen": 238,
+        "BackgroundColourBlue": 238
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\183.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 4,
+        "Y1": 111,
+        "X2": 496,
+        "Y2": 195,
+        "BackgroundColourRed": 240,
+        "BackgroundColourGreen": 238,
+        "BackgroundColourBlue": 236
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\184.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 8,
+        "Y1": 112,
+        "X2": 291,
+        "Y2": 186,
+        "BackgroundColourRed": 240,
+        "BackgroundColourGreen": 238,
+        "BackgroundColourBlue": 236
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\1919.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 8,
+        "Y1": 322,
+        "X2": 487,
+        "Y2": 392,
+        "BackgroundColourRed": 241,
+        "BackgroundColourGreen": 241,
+        "BackgroundColourBlue": 241
+      },
+      {
+        "X1": 12,
+        "Y1": 393,
+        "X2": 488,
+        "Y2": 456,
+        "BackgroundColourRed": 241,
+        "BackgroundColourGreen": 241,
+        "BackgroundColourBlue": 241
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\2141.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 18,
+        "Y1": 226,
+        "X2": 484,
+        "Y2": 296,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      },
+      {
+        "X1": 18,
+        "Y1": 300,
+        "X2": 394,
+        "Y2": 365,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\2167.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 67,
+        "Y1": 737,
+        "X2": 399,
+        "Y2": 789,
+        "BackgroundColourRed": 234,
+        "BackgroundColourGreen": 235,
+        "BackgroundColourBlue": 238
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\2304.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 2,
+        "Y1": 36,
+        "X2": 431,
+        "Y2": 101,
+        "BackgroundColourRed": 247,
+        "BackgroundColourGreen": 220,
+        "BackgroundColourBlue": 103
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\3083.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 94,
+        "Y1": 37,
+        "X2": 488,
+        "Y2": 106,
+        "BackgroundColourRed": 43,
+        "BackgroundColourGreen": 43,
+        "BackgroundColourBlue": 43
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\321.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 11,
+        "Y1": 191,
+        "X2": 520,
+        "Y2": 280,
+        "BackgroundColourRed": 242,
+        "BackgroundColourGreen": 242,
+        "BackgroundColourBlue": 242
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\3391.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 5,
+        "Y1": 133,
+        "X2": 972,
+        "Y2": 215,
+        "BackgroundColourRed": 8,
+        "BackgroundColourGreen": 9,
+        "BackgroundColourBlue": 10
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\3495.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 3,
+        "Y1": 171,
+        "X2": 499,
+        "Y2": 241,
+        "BackgroundColourRed": 138,
+        "BackgroundColourGreen": 138,
+        "BackgroundColourBlue": 138
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\3651.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 6,
+        "Y1": 43,
+        "X2": 379,
+        "Y2": 107,
+        "BackgroundColourRed": 242,
+        "BackgroundColourGreen": 242,
+        "BackgroundColourBlue": 242
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\3652.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 4,
+        "Y1": 41,
+        "X2": 377,
+        "Y2": 102,
+        "BackgroundColourRed": 242,
+        "BackgroundColourGreen": 242,
+        "BackgroundColourBlue": 242
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\3653.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 6,
+        "Y1": 41,
+        "X2": 383,
+        "Y2": 106,
+        "BackgroundColourRed": 80,
+        "BackgroundColourGreen": 80,
+        "BackgroundColourBlue": 80
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\470.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 38,
+        "Y1": 403,
+        "X2": 497,
+        "Y2": 452,
+        "BackgroundColourRed": 245,
+        "BackgroundColourGreen": 245,
+        "BackgroundColourBlue": 245
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\704.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 7,
+        "Y1": 672,
+        "X2": 411,
+        "Y2": 739,
+        "BackgroundColourRed": 2,
+        "BackgroundColourGreen": 117,
+        "BackgroundColourBlue": 174
+      },
+      {
+        "X1": 8,
+        "Y1": 746,
+        "X2": 183,
+        "Y2": 813,
+        "BackgroundColourRed": 2,
+        "BackgroundColourGreen": 117,
+        "BackgroundColourBlue": 174
+      },
+      {
+        "X1": 182,
+        "Y1": 744,
+        "X2": 488,
+        "Y2": 814,
+        "BackgroundColourRed": 2,
+        "BackgroundColourGreen": 117,
+        "BackgroundColourBlue": 174
+      },
+      {
+        "X1": 8,
+        "Y1": 820,
+        "X2": 392,
+        "Y2": 888,
+        "BackgroundColourRed": 2,
+        "BackgroundColourGreen": 117,
+        "BackgroundColourBlue": 174
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\705.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 7,
+        "Y1": 791,
+        "X2": 241,
+        "Y2": 870,
+        "BackgroundColourRed": 1,
+        "BackgroundColourGreen": 125,
+        "BackgroundColourBlue": 187
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\816.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 14,
+        "Y1": 434,
+        "X2": 484,
+        "Y2": 499,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_17.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 20,
+        "Y1": 138,
+        "X2": 517,
+        "Y2": 215,
+        "BackgroundColourRed": 242,
+        "BackgroundColourGreen": 242,
+        "BackgroundColourBlue": 242
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_24.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 13,
+        "Y1": 119,
+        "X2": 527,
+        "Y2": 177,
+        "BackgroundColourRed": 238,
+        "BackgroundColourGreen": 238,
+        "BackgroundColourBlue": 238
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_32.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 51,
+        "Y1": 375,
+        "X2": 488,
+        "Y2": 439,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_35.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 35,
+        "Y1": 289,
+        "X2": 340,
+        "Y2": 363,
+        "BackgroundColourRed": 252,
+        "BackgroundColourGreen": 252,
+        "BackgroundColourBlue": 252
+      },
+      {
+        "X1": 33,
+        "Y1": 366,
+        "X2": 336,
+        "Y2": 443,
+        "BackgroundColourRed": 252,
+        "BackgroundColourGreen": 252,
+        "BackgroundColourBlue": 252
+      },
+      {
+        "X1": 36,
+        "Y1": 449,
+        "X2": 499,
+        "Y2": 524,
+        "BackgroundColourRed": 252,
+        "BackgroundColourGreen": 252,
+        "BackgroundColourBlue": 252
+      },
+      {
+        "X1": 41,
+        "Y1": 531,
+        "X2": 496,
+        "Y2": 605,
+        "BackgroundColourRed": 252,
+        "BackgroundColourGreen": 252,
+        "BackgroundColourBlue": 252
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_38.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 37,
+        "Y1": 401,
+        "X2": 497,
+        "Y2": 475,
+        "BackgroundColourRed": 252,
+        "BackgroundColourGreen": 252,
+        "BackgroundColourBlue": 252
+      },
+      {
+        "X1": 38,
+        "Y1": 482,
+        "X2": 501,
+        "Y2": 559,
+        "BackgroundColourRed": 252,
+        "BackgroundColourGreen": 252,
+        "BackgroundColourBlue": 252
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_44.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 36,
+        "Y1": 767,
+        "X2": 397,
+        "Y2": 840,
+        "BackgroundColourRed": 252,
+        "BackgroundColourGreen": 252,
+        "BackgroundColourBlue": 252
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_51.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 48,
+        "Y1": 52,
+        "X2": 523,
+        "Y2": 100,
+        "BackgroundColourRed": 44,
+        "BackgroundColourGreen": 51,
+        "BackgroundColourBlue": 61
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_6.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 28,
+        "Y1": 184,
+        "X2": 502,
+        "Y2": 260,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      },
+      {
+        "X1": 28,
+        "Y1": 247,
+        "X2": 504,
+        "Y2": 327,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_61.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 7,
+        "Y1": 196,
+        "X2": 528,
+        "Y2": 281,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      },
+      {
+        "X1": 8,
+        "Y1": 288,
+        "X2": 527,
+        "Y2": 370,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_62.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 70,
+        "Y1": 46,
+        "X2": 527,
+        "Y2": 116,
+        "BackgroundColourRed": 211,
+        "BackgroundColourGreen": 18,
+        "BackgroundColourBlue": 1
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_63.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 89,
+        "Y1": 45,
+        "X2": 498,
+        "Y2": 111,
+        "BackgroundColourRed": 33,
+        "BackgroundColourGreen": 33,
+        "BackgroundColourBlue": 33
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_85.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 46,
+        "Y1": 284,
+        "X2": 259,
+        "Y2": 351,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      },
+      {
+        "X1": 265,
+        "Y1": 286,
+        "X2": 499,
+        "Y2": 351,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      },
+      {
+        "X1": 47,
+        "Y1": 354,
+        "X2": 488,
+        "Y2": 417,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      },
+      {
+        "X1": 43,
+        "Y1": 421,
+        "X2": 499,
+        "Y2": 488,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      },
+      {
+        "X1": 41,
+        "Y1": 493,
+        "X2": 498,
+        "Y2": 558,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_87.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 44,
+        "Y1": 283,
+        "X2": 501,
+        "Y2": 352,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      },
+      {
+        "X1": 45,
+        "Y1": 359,
+        "X2": 494,
+        "Y2": 420,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_89.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 10,
+        "Y1": 817,
+        "X2": 445,
+        "Y2": 877,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_91.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 11,
+        "Y1": 427,
+        "X2": 442,
+        "Y2": 487,
+        "BackgroundColourRed": 255,
+        "BackgroundColourGreen": 255,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  },
+  {
+    "FilePath": "testimages\\pttrns_96.jpg",
+    "WidgetAreaList": [
+      {
+        "X1": 11,
+        "Y1": 430,
+        "X2": 438,
+        "Y2": 487,
+        "BackgroundColourRed": 254,
+        "BackgroundColourGreen": 254,
+        "BackgroundColourBlue": 255
+      }
+    ],
+    "PrimaryColourRed": -1,
+    "PrimaryColourBlue": -1,
+    "PrimaryColourGreen": -1
+  }
+]
